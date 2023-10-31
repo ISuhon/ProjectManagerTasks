@@ -1,0 +1,20 @@
+Senior:
+	∘ In developing a website project : 10 000 $
+	∘ In creating mobile app project : 15 000 $
+	∘ In creatiing operation system project : 90 000 $
+Middle:
+	∘ In developing a website project : 2 000 $
+	∘ In creating mobile app project : 3 000 $
+	∘ In creatiing operation system project : 14 000 $
+Junior:
+	∘ In developing a website project : 400 $
+	∘ In creating mobile app project : 600 $
+	∘ In creatiing operation system project : 3 600 $
+Team-Lead:
+	∘ In developing a website project : 8 000 $
+	∘ In creating mobile app project : 14 000 $
+	∘ In creatiing operation system project : 85 000 $
+QA:
+	∘ In developing a website project : 1 000 $
+	∘ In creating mobile app project : 1 500 $
+	∘ In creatiing operation system project : 10 000 $
