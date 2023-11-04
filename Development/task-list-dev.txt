@@ -1,0 +1,35 @@
+Task Groups:
+1. Project Initialization
+2. Requirement Analysis
+3. Design and Planning
+4. Development
+5. Testing and QA
+6. Deployment
+7. Documentation
+8. Project Closure
+
+Task Group 1: Project Initialization
+-------------------------------------
+1.1 Create Project Proposal Document
+     - Description: Develop a detailed project proposal outlining the project scope, objectives, and deliverables.
+     - Responsible: Project Manager
+     - Resources: Previous project proposals, project stakeholders' inputs
+
+1.2 Set Up Version Control System
+     - Description: Implement a version control system (e.g., Git) to manage project source code and documentation.
+     - Responsible: Development Team Lead
+     - Resources: Git documentation, project server
+
+...
+
+Task Group 8: Project Closure
+------------------------------
+8.1 Create Project Closure Report
+     - Description: Prepare a project closure report summarizing the project achievements, challenges faced, and lessons learned.
+     - Responsible: Project Manager
+     - Resources: Project documentation, team feedback
+
+8.2 Conduct Client Feedback Session
+     - Description: Arrange a meeting with the client to gather feedback on the project's final deliverables and overall experience.
+     - Responsible: Project Manager
+     - Resources: Feedback form, meeting room
