@@ -1,0 +1,10 @@
+Project Meeting Tasks Menu:
+
+1. Meeting Preparation
+2. Meeting Agenda Creation
+3. Meeting Scheduling
+4. Meeting Conduct
+5. Meeting Minutes
+6. Action Item Follow-Up
+7. Meeting Evaluation
+8. Documentation and Archiving
