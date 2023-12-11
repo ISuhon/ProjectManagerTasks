@@ -1,0 +1,55 @@
+/// <summary>
+/// Represents a simple calculator that can perform basic arithmetic operations.
+/// </summary>
+public class SimpleCalculator
+{
+    /// <summary>
+    /// Adds two integers and returns the result.
+    /// </summary>
+    /// <param name="a">The first integer.</param>
+    /// <param name="b">The second integer.</param>
+    /// <returns>The sum of the two integers.</returns>
+    public int Add(int a, int b)
+    {
+        return a + b;
+    }
+
+    /// <summary>
+    /// Subtracts the second integer from the first integer and returns the result.
+    /// </summary>
+    /// <param name="a">The first integer (minuend).</param>
+    /// <param name="b">The second integer (subtrahend).</param>
+    /// <returns>The result of subtracting the second integer from the first integer.</returns>
+    public int Subtract(int a, int b)
+    {
+        return a - b;
+    }
+
+    /// <summary>
+    /// Multiplies two integers and returns the result.
+    /// </summary>
+    /// <param name="a">The first integer.</param>
+    /// <param name="b">The second integer.</param>
+    /// <returns>The product of the two integers.</returns>
+    public int Multiply(int a, int b)
+    {
+        return a * b;
+    }
+
+    /// <summary>
+    /// Divides the first integer by the second integer and returns the result.
+    /// </summary>
+    /// <param name="a">The dividend (numerator).</param>
+    /// <param name="b">The divisor (denominator).</param>
+    /// <returns>The result of dividing the first integer by the second integer.</returns>
+    /// <exception cref="System.DivideByZeroException">Thrown when attempting to divide by zero.</exception>
+    public double Divide(int a, int b)
+    {
+        if (b == 0)
+        {
+            throw new DivideByZeroException("Cannot divide by zero.");
+        }
+
+        return (double)a / b;
+    }
+}
